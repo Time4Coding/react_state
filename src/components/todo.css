@@ -1,0 +1,11 @@
+.notDone {
+  background-color: red;
+  color: white;
+  font-size: 30px;
+}
+
+.done {
+  background-color: green;
+  color: white;
+  font-size: 30px;
+}
